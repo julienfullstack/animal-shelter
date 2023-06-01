@@ -46,26 +46,16 @@ h3 {
   background-color: orange;
   margin-bottom: 10px;
   padding: 20px;
+  text-align: center;
 }
 
-.column-l {
+.column {
   display: inline-block;
   viewport-fit: auto;
-  width: 49%;
   background-color: aquamarine;
   border: 2px solid green;
   padding: 4px;
 }
-
-.column-r {
-  display: inline-block;
-  viewport-fit: auto;
-  width: 49%;
-  background-color: aquamarine;
-  border: 2px solid green;
-  padding: 4px;
-}
-
 
 img {
   display: block;
