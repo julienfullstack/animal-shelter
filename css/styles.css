@@ -38,7 +38,20 @@ h3 {
 ul {
   text-align: left;
   font-size: 20px;
+  
+}
+
+li {
   list-style-type: georgian;
+  text-align: left;
+  font-size: 20px;
+}
+
+ol li {
+  margin-left: 2em;
+  display: list-item;
+  list-style: inside decimal-leading-zero;
+  
 }
 
 .crimson-text {
