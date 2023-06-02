@@ -1,3 +1,11 @@
+@media screen and (max-width: 1000px) {
+  .column-l {
+    display: inline-block;
+    viewport-fit: auto;
+    border: 2px solid green;
+    padding: 4px;
+  }
+
 head {
   background-color: aqua;
 }
@@ -5,6 +13,11 @@ head {
 body {
   background-color: aqua;
 }
+
+em {
+  font-style: italic;
+}
+
 h1 {
   text-align: center;
   font-size: 32px;
@@ -18,26 +31,24 @@ h2 {
 
 h3 {
   text-align: center;
-  font-size: 15px;
+  font-size: 20px;
 }
 
-@media screen and (max-width: 1000px) {
-  .column-l {
-    display: inline-block;
-    viewport-fit: auto;
-    border: 2px solid green;
-    padding: 4px;
-  }
-  
-  .column-r {
-    display: inline-block;
-    viewport-fit: auto;
-    width: 49%;
-    border: 2px solid green;
-    padding: 4px;
-  }
 
+ul {
+  text-align: left;
+  font-size: 20px;
+  list-style-type: georgian;
 }
+
+.crimson-text {
+  color: crimson;
+}
+
+strong {
+  color: green;
+}
+
 
 .box1 {
   float: center;
