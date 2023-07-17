@@ -2,6 +2,7 @@ _Animal Shelter_
 #### By _Julien Lenaz_
 #### _A website to display the animals listed on a fictional animal shelter_
 [GitHub Repo](https://github.com/julienlen/text-analyzer/)
+[GitHub Pages](https://julienlen.github.io/animal-shelter/)
 ## Technologies used:
 *_HTML_
 *_CSS_
